@@ -8,8 +8,9 @@ Fone1:    (98) 99168 - 3770 <br>
 e-mail:  eltonss.eng@gmail.com<br>
 
   
-Engenheiro Eletricista e Automação, Mestre em Ciencia de Computação com experiencias em desenvolvimentos de sistemas embarcados (Hardware e Firmware) e projetos de Automação para o setor de mineração, refinaria de alumínio e geração de energia, cidades inteligentes e casas inteligentes.
+Engenheiro Eletricista e Automação, Mestre em Ciência da Computação com experiência em desenvolvimento de Sistemas Embarcados (Hardware e Firmware) e projetos de Automação para o setor de mineração, refinaria de alumínio e geração de energia, cidades inteligentes e casas inteligentes.
 
+Além da experiência em desenvolvimento de firmware para os mais diversos microcontroladores (PIC, 8051, ESP32/ESP8266, Arduino e etc ). Possuo laboratório para desenvolvimento e testes de hardware com Ossiloscopio, estação de retrabalho (estação de solda), fontes, geradores de função e outros.
 
 Domínio de diversas ferramentas de projetos e de gestão,incluindo as boas práticas de Gestão de Projetos do PMI (Certificação PMP Number: 1738905).
 
