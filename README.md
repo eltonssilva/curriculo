@@ -9,7 +9,8 @@ Fone2:    (98) 98248 - 9323 <br>
 e-mail:  eltonss.eng@gmail.com<br>
 
   
-Engenheiro Eletricista e Automação, com experiencias em grandes projetos no setor de mineração, refinaria de alumínio e geração de energia, atualmente trabalhando com projeto e desenvolvimentos de soluções utilizando sistemas embarcados e IOT e tecnologias sem fio.
+Engenheiro Eletricista e Automação, Mestre em Ciencia de Computação com experiencias em desenvolvimentos de sistemas embarcados (Hardware e Firmware) e projetos de Automação para o setor de mineração, refinaria de alumínio e geração de energia, cidades inteligentes e casas inteligentes.
+
 
 Domínio de diversas ferramentas de projetos e de gestão,incluindo as boas práticas de Gestão de Projetos do PMI (Certificação PMP Number: 1738905).
 
@@ -67,7 +68,7 @@ Domínio de diversas ferramentas de projetos e de gestão,incluindo as boas prá
 
 - Sistema para geolocalização dos servidores responsaveis pela limpeza publica (zeladoria da cidade) utilizando o protocolo lora e GPS 
 
-#### Modulo de Controle de Acionamento de Acionamento de MAquinas (IoT Industrial)
+#### Modulo de Controle de Acionamento de Acionamento de Maquinas (IoT Industrial)
 
 - Modulo para controle de acionamento de maquinas industriais atravez do protocolo RFID utilizando eletronica de potencia.
 
@@ -80,9 +81,18 @@ Domínio de diversas ferramentas de projetos e de gestão,incluindo as boas prá
 ## Experência Profissional
 ---
 
+###  Green4T
+#### Especialista em Sistemas IoT
+##### 01/2022 - Atual
+- Desenvolvimento de projetos e soluções em sistema embarcados e internet das coisas para cidades inteligentes e industrias inteligentes
+* Tecnologias e Protocolos Utilizados 
+  * PLC (Rockwell e Schneider)
+  * Microcontroladores (Ex. ESP8266, ESP32, PIC, 8051 e etc)
+  * Protocolos IOT (ZigBee, MQTT, LoraWan e etc).
+
 ### Aguiar Engenharia
 #### Engenheiro de Projeto e Desenvolvimento
-##### 01/2018 - Atual
+##### 01/2018 -01/2022
 - Desenvolvimento de projetos e soluções em sistema embarcados e internet das coisas para automação residencial, predial e industrial
 * Tecnologias e Protocolos Utilizados 
   * PLC (Rockwell e Schneider)
