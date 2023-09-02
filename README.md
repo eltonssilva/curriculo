@@ -5,7 +5,6 @@ Engenheiro Eletricista/Automação
 Nascimento: (05/05/1979)<br>
 Cidade:    São Luis/MA <br>
 Fone1:    (98) 99168 - 3770 <br>
-Fone2:    (98) 98248 - 9323 <br>
 e-mail:  eltonss.eng@gmail.com<br>
 
   
@@ -207,4 +206,5 @@ produtivos;
 ## Redes Sociais
 ---
 *  [Linkedin](https://www.linkedin.com/in/eltonssilva/)
+*  [GitHub](https://github.com/eltonssilva)
 
