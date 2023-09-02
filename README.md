@@ -179,6 +179,9 @@ produtivos;
 * FCP (Furukawa Certified Professional)
 
 ### Programação
+* Sistema Operacional para Sistemas Embarcados FreeRTOS
+* Yocto Project
+* C
 * Ladder (PLC)
 * C++
 * Java
@@ -188,12 +191,9 @@ produtivos;
 
 ### Tecnologias Industrias
 * SDCD Honeywell (Sistema Digital de Controle Distribuído)
-* PLC Rockwell
-* Redes Industriais (Rede Devic Net, Control Net, DH+, Modbus)
-
-### Minicursos Completos
-* Programação e Manutenção de PLC Control Logix da Allen-Bradley
-* Introdução a Six Sigma
+* Controlador Lógico Programavel
+* Redes Industriais (Rede Devic Net, Control Net, DH+, Modbus, Profinet)
+* Sistema SCADA (Scada LTS, Delta, RockWell)
 
 ## Principais Projetos
 ---
