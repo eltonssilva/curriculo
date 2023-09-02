@@ -49,6 +49,33 @@ Domínio de diversas ferramentas de projetos e de gestão,incluindo as boas prá
 | **Ano**       | 1996 - 1999         | 
 
 
+## Ultimos Projetos/Dispositivos (Microcontroladores e IOT)
+
+#### Modulo de Controle Iluminação (Smart Homes)
+
+- Modulo de controle de Iluminação para automação residencial com suporte a rede MASH e configuração por protocolo BLE.
+  
+#### Modulo de Controle de Arcondicionador (Smart Homes)
+
+- Modulo de controle de arcondicionado utilizadno para automação residencial com suporte a rede MASH e comandos Infravermelho.
+
+#### Sistema de Contagem de Pessoas (Cidades Inteligentes)
+
+- Sistema IoT para contagem de pessoas em transportes publicos atraves dos sinais de telefone celulare utilizandos microcontrolador ESP-32
+
+#### Sistema de Varrição Publica (Cidades Inteligentes)
+
+- Sistema para geolocalização dos servidores responsaveis pela limpeza publica (zeladoria da cidade) utilizando o protocolo lora e GPS 
+
+#### Modulo de Controle de Acionamento de Acionamento de MAquinas (IoT Industrial)
+
+- Modulo para controle de acionamento de maquinas industriais atravez do protocolo RFID utilizando eletronica de potencia.
+
+#### Controle de Almoxerifado (IoT Industrial)
+
+- Modulo com linux embarcado (Yocto) para controle e monitoramento do movimento de cargas dentro do patio do almoxarifado usando RFID
+
+
 
 ## Experência Profissional
 ---
